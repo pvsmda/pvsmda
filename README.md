@@ -1,7 +1,7 @@
 
 <h1>
   <img  src="https://github.com/tiagopierre/portfolio/blob/main/assets/logo.png?raw=true"/>
-  Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pierre! 
+  Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Victor! 
 
 </h1>
 
