@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
 [![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
 
-<p align="justify">Meu nome é Paulo Victor , estudo programação a sete meses, ano em que iniciei o curso de <strong>Técnico em Informática</strong> Integrado ao méio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias Html, Css , JavaScript, ReactJS, React-Native. </p>
+<p align="justify">Meu nome é Paulo Victor , estudo programação a sete meses, ano em que iniciei o curso de <strong>Técnico em Informática</strong> Integrado ao médio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias Html, Css , JavaScript, ReactJS, React-Native. </p>
 
 <p align="justify">Atualmente também faço parte de um projeto que tem por objetivo a contrução de um software para identificação de cancêres.</p>
 
