@@ -5,7 +5,7 @@
 
 </h1>
 
-  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/screencapture-pvsmda-github-io-newPortifolio-2021-12-24-14_53_47.png?raw=true"/>
+  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/WhatsApp%20Image%202022-02-11%20at%2018.21.56.jpeg?raw=true"/>
 
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
 [![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
