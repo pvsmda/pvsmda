@@ -5,7 +5,7 @@
 
 </h1>
 
-  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/screencapture-127-0-0-1-5500-index-html-2022-07-20-16_48_40.png?raw=true" width=500px height=800px/>
+  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/screencapture-127-0-0-1-5500-index-html-2022-07-20-16_48_40.png?raw=true" width=293px height=543px/>
 
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
 [![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
@@ -28,8 +28,7 @@
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>  
  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsmda&layout=compact&langs_count=7&theme=dark"/>
-
-  <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
 
 
