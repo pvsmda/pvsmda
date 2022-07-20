@@ -5,12 +5,12 @@
 
 </h1>
 
-  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/WhatsApp%20Image%202022-02-11%20at%2018.21.56.jpeg?raw=true" width=600px height=800px/>
+  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/screencapture-127-0-0-1-5500-index-html-2022-07-20-16_48_40.png?raw=true" width=500px height=800px/>
 
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
 [![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
 
-<p align="justify">Meu nome é Paulo Victor , estudo programação a sete meses, ano em que iniciei o curso de <strong>Técnico em Informática</strong> Integrado ao médio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias Html, Css , JavaScript, ReactJS, React-Native. </p>
+<p align="justify">Meu nome é Paulo Victor ,estudo programação, e atualmente curso <strong>Informática</strong> Integrado ao médio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias ReactJS e React-Native. </p>
 
 
 
@@ -31,13 +31,6 @@
 
   <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
-
-
-###
-
-
-[![GitHub Followers](https://img.shields.io/github/followers/pvsmda?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/pvsmda)
-![](https://komarev.com/ghpvc/?username=your-github-pvsmda&color=ff69b4&style=flat&label=visitors)
 
 
 
