@@ -5,14 +5,13 @@
 
 </h1>
 
-  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/WhatsApp%20Image%202022-02-11%20at%2018.21.56.jpeg?raw=true"/>
+  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/WhatsApp%20Image%202022-02-11%20at%2018.21.56.jpeg?raw=true" width=600px height=800px/>
 
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
 [![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
 
 <p align="justify">Meu nome é Paulo Victor , estudo programação a sete meses, ano em que iniciei o curso de <strong>Técnico em Informática</strong> Integrado ao médio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias Html, Css , JavaScript, ReactJS, React-Native. </p>
 
-<p align="justify">Atualmente também faço parte de um projeto que tem por objetivo a contrução de um software para identificação de cancêres.</p>
 
 
 </br>
@@ -23,7 +22,8 @@
 <code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
+<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 </br>
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>  
