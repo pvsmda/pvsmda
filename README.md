@@ -1,39 +1,38 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-<h1>
-  <img  src="https://github.com/tiagopierre/portfolio/blob/main/assets/logo.png?raw=true"/>
-  Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Victor! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Victor;I'm+17+years+old;I'm+from+Brazil;I+Computer+Technician+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-</h1>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pvsmda&bg_color=ADD8E6&color=0000CD&line=b13583&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img  align="right" src="https://github.com/pvsmda/pvsmda/blob/main/screencapture-127-0-0-1-5500-index-html-2022-07-20-16_48_40.png?raw=true" width=293px height=543px/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pvsmda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-Paulo%20Victor-6633cc?style=flat&labelColor=6633cc&logo=Linkedin&Color=white)](https://www.linkedin.com/in/paulo-victor-silva-0ab401217/)
-[![Gmail Badge](https://img.shields.io/badge/-spaulovictor813@gmail.com-6633cc?style=flat&logo=Gmail&logoColor=white&link=mailto:spaulovictor813@gmail.com)](mailto:spaulovictor813@gmail.com)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" alt="Paulo Victor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsmda&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-<p align="justify">Meu nome é Paulo Victor ,estudo programação, e atualmente curso <strong>Informática</strong> Integrado ao médio (Instituto Federal do Piauí, <i>cursando</i>). De lá pra cá venho focando nas tecnologias ReactJS e React-Native. </p>
-
-
-
-</br>
-<h2> 🛠 &nbsp;Tech Stack</h2>  
-
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-</br>
-
-<h2>⚙️ &nbsp;GitHub Analytics</h2>  
- <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsmda&layout=compact&langs_count=7&theme=dark"/>
- <img  width="350em" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center"> 
+<a href="https://www.instagram.com/paulovictor.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:spaulovictor813@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulo-victor-silva-0ab401217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
  
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pvsmda}/count.svg" /></p> 
+<br>
+</div>
 
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
