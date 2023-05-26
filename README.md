@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Paulo+Victor;I'm+17+years+old;I'm+from+Brazil;I+Computer+Technician+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pvsmda&bg_color=ADD8E6&color=0000CD&line=b13583&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pvsmda&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pvsmda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
