@@ -8,10 +8,9 @@
 <a href="">
  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
  </a>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedor de sistemas,Sou técnico em informática recém formado pelo IFPI
+Sou desenvolvedor de sistemas, Sou técnico em informática
 - ❤ Estudante de Desenvolvimento Web
 - 💙 Fã da linguagem python
 - 👩‍💻 Aprendendo algo sobre data-science
