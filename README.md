@@ -1,33 +1,59 @@
-<img src = "banner.gif" width = "325px" align = "right">
+## Olá, meu nome é Paulo Victor!
 
-# ❤ Olá, bom ter você por aqui!
-  <div id="badges">
-  <a href = "https://www.linkedin.com/in/paulo-victor-silva-0ab401217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=pvsmda&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsmda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pvsmda&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=pvsmda&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
   </a>
-<a href="">
- <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
- </a>
-</div>
-
-Sou desenvolvedor de sistemas, Sou técnico em informática
-- ❤ Estudante de Desenvolvimento Web
-- 💙 Fã da linguagem python
-- 👩‍💻 Aprendendo algo sobre data-science
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
+</p>
 
 ---
 
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsmda&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=pvsmda&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/pvsmda/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
